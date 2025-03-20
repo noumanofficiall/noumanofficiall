@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Nouman Ijaz</h1>
-<h3 align="center">I'm a passionate backend developer from Pakistan, currently working as a PHP Developer and Woocommerce Plugin Developer at EBRIDGE - Mars Technologies.</h3>
+<h3 align="center">I'm a passionate backend developer from Pakistan, currently working as a PHP | Woocommerce Plugin Developer at EBRIDGE - Mars Technologies.</h3>
 
 - 🌱 I’m currently learning **Reactjs,Nextjs**
 
