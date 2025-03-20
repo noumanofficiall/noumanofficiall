@@ -6,8 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/noumanofficiall](https://github.com/noumanofficiall)
 
 - 📫 How to reach me **https://linkedin.com/in/noumanofficiall**
-
-- 📄 Know about my experiences [https://linkedin.com/in/noumanofficiall](https://linkedin.com/in/noumanofficiall)
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
